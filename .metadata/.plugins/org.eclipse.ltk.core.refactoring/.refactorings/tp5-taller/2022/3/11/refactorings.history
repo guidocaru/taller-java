@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename type &apos;ejercicio_2.Meses&apos; to &apos;Mes&apos;&#x0D;&#x0A;- Original project: &apos;tp5-taller&apos;&#x0D;&#x0A;- Original element: &apos;ejercicio_2.Meses&apos;&#x0D;&#x0A;- Renamed element: &apos;ejercicio_2.Mes&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Meses&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;ejercicio_2{Meses.java[Meses" matchStrategy="1" name="Mes" qualified="false" references="true" similarDeclarations="false" stamp="1647034733362" textual="false" version="1.0"/>
-</session>
