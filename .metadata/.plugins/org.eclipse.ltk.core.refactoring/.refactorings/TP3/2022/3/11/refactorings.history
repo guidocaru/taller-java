@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;FabricaDeMuebles.ucls&apos; to &apos;Parcial1/src/ort.taller.parcial1&apos;&#x0D;&#x0A;- Original project: &apos;TP3&apos;&#x0D;&#x0A;- Destination element: &apos;Parcial1/src/ort.taller.parcial1&apos;&#x0D;&#x0A;- Original element: &apos;FabricaDeMuebles.ucls&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=Parcial1/src&lt;ort.taller.parcial1" element1="FabricaDeMuebles.ucls" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1647028349816" units="0" version="1.0"/>
+</session>

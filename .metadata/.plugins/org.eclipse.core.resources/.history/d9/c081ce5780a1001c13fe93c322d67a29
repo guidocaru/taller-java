@@ -1,0 +1,14 @@
+package ejercicio_1;
+
+public class Test {
+	
+	Anio anio = new Anio();
+	
+	System.out.println(anio.getNombreDelMes(5));
+	System.out.println(anio.diasTranscurridos(1));
+	
+	int matriz[][] = new int[3][20];
+	
+	System.out.println(matriz[3].length);
+
+}
